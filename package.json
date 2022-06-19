@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-dds",
+  "name": "@delldesignsystem/eslint-config-dds",
   "version": "1.0.0",
   "description": "eslint config for any dds projects",
   "main": "index.js",
