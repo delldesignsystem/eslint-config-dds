@@ -27,6 +27,9 @@
   "homepage": "https://github.com/delldesignsystem/eslint-config-dds#readme",
   "peerDependencies": {
     "eslint": ">= 5"
+  },
+  "config": {
+    "registry": "https://registry.npmjs.org"
   }
 }
 
