@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-dds",
+  "version": "1.0.0",
+  "description": "eslint config for any dds projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delldesignsystem/eslint-config-dds.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "dell",
+    "dell",
+    "design",
+    "system",
+    "dds"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delldesignsystem/eslint-config-dds/issues"
+  },
+  "homepage": "https://github.com/delldesignsystem/eslint-config-dds#readme",
+  "peerDependencies": {
+    "eslint": ">= 5"
+  }
+}
+
